@@ -1,4 +1,4 @@
-# Attacks-and-Defend
+# Attacks-and-Defence
 Adversarial attacks, their identifications and defenses against them
 
 Results after training (without attacks) on SVHN dataset:</br></br>
